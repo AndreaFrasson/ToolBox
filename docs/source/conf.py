@@ -17,14 +17,14 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinxcontrib.matlab',   
+    'sphinxcontrib.matlab',
+    'sphinx.ext.napoleon'
 ]
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
-intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
@@ -35,6 +35,6 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-this_dir = os.path.dirname(os.path.abspath(__file__))
-matlab_src_dir = os.path.abspath(os.path.join(this_dir, '..'))
+root_dir = os.path.dirname(os.path.abspath('./'))
+matlab_src_dir = os.path.abspath(os.path.join(root_dir, 'matlab'))
 primary_domain = 'mat'
