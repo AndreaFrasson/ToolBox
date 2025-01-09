@@ -36,7 +36,6 @@ Contents
    :maxdepth: 1
    :caption: API Reference
 
-   api/timestwo
 
 .. toctree::
    :maxdepth: 1
