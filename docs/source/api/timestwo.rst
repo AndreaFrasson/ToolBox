@@ -1,1 +1,2 @@
+.. automodule:: matlab
 .. autofunction:: timestwo
