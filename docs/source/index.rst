@@ -40,8 +40,8 @@ Contents
    user_guide/tutorial
 
 .. toctree::
-   :maxdepth: 2
-   :caption: API Reference
+   :maxdepth: 1
+   :caption: API
 
    api/timestwo
 
