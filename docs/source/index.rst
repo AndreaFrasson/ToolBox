@@ -32,10 +32,6 @@ Contents
 
    get_started/quick_start
 
-.. toctree::
-   :maxdepth: 1
-   :caption: API Reference
-
 
 .. toctree::
    :maxdepth: 1
