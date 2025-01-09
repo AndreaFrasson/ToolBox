@@ -1,1 +1,1 @@
-.. autofunction:: code.timestwo
+.. autofunction:: Toolbox.code.timestwo
