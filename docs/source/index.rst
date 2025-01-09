@@ -28,21 +28,22 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Get Started:
+   :caption: Get Started
 
    get_started/quick_start
 
 .. toctree::
    :maxdepth: 1
-   :caption: User Guide:
+   :caption: User Guide
 
    user_guide/tutorial
 
 .. toctree::
    :maxdepth: 1
-   :caption: API Reference:
+   :caption: API Reference
 
    api/functions
+
 
 License
 ------------
