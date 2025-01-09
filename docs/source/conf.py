@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'AMP Toolbox'
+copyright = '2025, Università di Bologna'
+author = 'Andrea Frasson'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0.1'
 
 # -- General configuration
 
