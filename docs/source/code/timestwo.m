@@ -1,4 +1,4 @@
-function y = times_two(x)
+function y = timestwo(x)
 % times_two Multiply a number by two
 %
 % :param x: The input value
