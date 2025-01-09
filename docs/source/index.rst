@@ -40,9 +40,9 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: User Guide
+   :caption: API Reference
 
-   user_guide/tutorial
+   api/function
 
 
 License
