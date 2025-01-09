@@ -1,4 +1,7 @@
-ToolBox vx.x.x
-==============
+.. _myfun:
+
+my function
++++++++++++
+Do these work?
 
 .. autofunction:: timestwo
