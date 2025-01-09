@@ -1,2 +1,4 @@
-.. title:: ToolBox vx.x.x
+ToolBox vx.x.x
+==============
+
 .. autofunction:: timestwo
