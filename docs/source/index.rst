@@ -34,6 +34,12 @@ Contents
 
 .. toctree::
    :maxdepth: 1
+   :caption: API Reference
+
+   api/timestwo
+
+.. toctree::
+   :maxdepth: 1
    :caption: User Guide
 
    user_guide/tutorial
