@@ -1,2 +1,1 @@
-.. automodule:: code
 .. autofunction:: timestwo
