@@ -36,5 +36,5 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 root_dir = os.path.dirname(os.path.abspath('./'))
-matlab_src_dir = os.path.abspath(os.path.join(root_dir, 'matlab'))
+matlab_src_dir = os.path.abspath(os.path.join(root_dir, ''))
 primary_domain = 'mat'
