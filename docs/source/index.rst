@@ -21,4 +21,3 @@ Contents
    Home <self>
    usage
    api
-   tutorial
