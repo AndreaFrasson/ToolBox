@@ -10,7 +10,7 @@ AMP ToolBox Documentation
 
 Introduction
 -------------------------
-**AMP ToolBox** (/lu'make/) is 
+**AMP ToolBox** is 
 
 
 Check out the :doc:`usage` section for further information, including
