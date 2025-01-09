@@ -42,7 +42,7 @@ Contents
    :maxdepth: 1
    :caption: API Reference
 
-   api/function
+   api/timestwo
 
 
 License
