@@ -4,10 +4,13 @@
 AMP ToolBox Documentation
 ===================================
 
+.. note::
+
+   This project is under active development.
+
 Introduction
 -------------------------
 **AMP ToolBox** (/lu'make/) is 
-
 
 
 Check out the :doc:`usage` section for further information, including
@@ -16,10 +19,6 @@ how to :ref:`installation` the project.
 Features:
 
 - General and extensible data structure
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
