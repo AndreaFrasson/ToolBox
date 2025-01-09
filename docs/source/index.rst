@@ -1,6 +1,11 @@
 .. AMP ToolBox documentation master file.
 .. title:: ToolBox vx.x.x
 
+.. mat:automodule:: functions
+    :members:
+    :show-inheritance:
+    :undoc-members:
+
 AMP ToolBox Documentation
 ===================================
 
@@ -44,6 +49,7 @@ Contents
    :caption: API Reference
 
    api/timestwo
+
 
    
 
