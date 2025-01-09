@@ -16,8 +16,9 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
+.. toctree:
 
+   Home <self>
    usage
    api
    tutorial
