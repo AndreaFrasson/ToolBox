@@ -5,7 +5,9 @@ Functions
 
    obtain the polyshape of field from trajectory data.
 
-   :param Longitude, Latitude, Altitude: vehicle geographical coordinates of trajectory data [degrees, degrees, m] [necessary]
+   :param Longitude: vehicle geographical coordinates of trajectory data [degrees, degrees, m] [necessary]
+   :param Latitude: vehicle geographical coordinates of trajectory data [degrees, degrees, m] [necessary]
+   :param Altitude: vehicle geographical coordinates of trajectory data [degrees, degrees, m] [necessary]
    :param Compass_Bearing: vehicle heading angle [degrees] 
    :param TaskState: Task state index [no units]
    :param GPSState: GPS state index [no units]
