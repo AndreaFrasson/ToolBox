@@ -30,7 +30,7 @@ Contents
    :maxdepth: 1
    :caption: Get Started
 
-   get_started/quick_start
+   get_started/setup
 
 
 .. toctree::
