@@ -37,7 +37,8 @@ Contents
    :maxdepth: 1
    :caption: User Guide
 
-   user_guide/tutorial
+   user_guide/man_tutorial
+   user_guide/ls_tutorial
 
 .. toctree::
    :maxdepth: 1
