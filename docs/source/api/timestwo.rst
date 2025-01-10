@@ -2,4 +2,7 @@ my function
 +++++++++++
 Do these work?
 
-.. autofunction:: timestwo
+.. automodule:: timestwo
+
+Do these work?
+.. function:: PRova
