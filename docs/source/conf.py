@@ -18,7 +18,6 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinxcontrib.matlab',
-    'sphinx.ext.napoleon'
 ]
 
 intersphinx_mapping = {
