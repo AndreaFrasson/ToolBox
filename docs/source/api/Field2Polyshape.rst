@@ -1,7 +1,7 @@
 Autodoc
 *******
 
-.. function:: Field2Polyshape(Longitude,Latitude,Altitude,Compass_Bearing,TaskState,GPSState,AlgorithmParameters [,BoundaryShrinkag+e)
+.. function:: Field2Polyshape(Longitude,Latitude,Altitude,Compass_Bearing,TaskState,GPSState,AlgorithmParameters [,BoundaryShrinkage)
 
    obtain the polyshape of field from trajectory data.
 
