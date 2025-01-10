@@ -7,4 +7,4 @@ The operations are performed on the dataset
 .. toctree::
    :maxdepth: 1
 
-   get_started/general_usage
+   examples/general_usage
