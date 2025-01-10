@@ -5,4 +5,6 @@ Do these work?
 .. automodule:: timestwo
 
 Do these work?
-.. function:: PRova
+## Syntax
+```python
+calculate_area(width, height)
