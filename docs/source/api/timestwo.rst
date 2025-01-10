@@ -2,4 +2,6 @@ my function
 +++++++++++
 Do these work?
 
-.. mat:automodule:: matlab
+.. mat:autofunction:: matlab.timestwo
+
+.. function:: timestwo
