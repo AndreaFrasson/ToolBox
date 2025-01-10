@@ -8,6 +8,10 @@ Autodoc
 Manual
 ******
 
-.. function:: timestwo(x)
-  :param:: x - input
-  Moltiplica x 2
+.. function:: timestwo(x[, y = 0])
+
+   Timestwo prova.
+
+   :param x: input
+   :type x: integer or None
+   :rtype: integer
