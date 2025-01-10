@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinxcontrib.matlab',
+    "sphinx.ext.napoleon"
 ]
 
 primary_domain = 'mat'
@@ -31,6 +32,7 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-matlab_src_dir = os.path.join(os.path.dirname('../..'), 'matlab')
+this_dir = os.path.dirname(os.path.abspath(__file__))
+matlab_src_dir = os.path.abspath(os.path.join(this_dir, '..'))
 
 
