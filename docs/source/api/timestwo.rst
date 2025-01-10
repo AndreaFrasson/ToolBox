@@ -12,6 +12,7 @@ Manual
 
    Timestwo prova.
 
-   :param x: input
+   :param x: The input value
    :type x: integer or None
+   :return: The input value multiplied by two
    :rtype: integer
