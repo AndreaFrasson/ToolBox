@@ -1,6 +1,7 @@
 Manual Tutorial
 ===============
 
+Simple text before the code
 
 .. code-block:: mat
 
@@ -11,3 +12,6 @@ Manual Tutorial
   % :returns: The input value multiplied by two
   
   y = x * 2;
+
+
+Text after the code
