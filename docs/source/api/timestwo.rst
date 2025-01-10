@@ -5,5 +5,5 @@ Do these work?
 .. mat:autofunction:: matlab.timestwo
 
 .. function:: timestwo(x)
-  .. attribute:: x
+  .. param:: x - input
   Moltiplica x 2
