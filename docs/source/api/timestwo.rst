@@ -6,5 +6,6 @@ Do these work?
 
 Do these work?
 ## Syntax
-```python
+```matlab
 calculate_area(width, height)
+```
