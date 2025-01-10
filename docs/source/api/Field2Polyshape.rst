@@ -12,11 +12,11 @@ Autodoc
    :param AlgorithmParameters: AlgorithmParameters object [units none]
    :type AlgorithmParameters: struct
    :param BoundaryShrinkage: ([1x1]) shirinking factor of boundary function [units none]
-   :return: FieldBoundary: polyshape object,
-      | AreaBoundary [1x1]: polyshape area [m^2],
-      | PerimeterBoundary [1x1]: polyshape permiter [m],
-      | largh_pass [scalar]: pass width [m],
-      | num_pass [scalar]: number of passes [-],
-      | Cluster: [1x]: cluster assignment of each data point,
-      | AngleComb
+   :return: FieldBoundary: polyshape object, \n
+      AreaBoundary [1x1]: polyshape area [m^2], \n
+      PerimeterBoundary [1x1]: polyshape permiter [m], \n
+      largh_pass [scalar]: pass width [m], \n
+      num_pass [scalar]: number of passes [-], \n
+      Cluster: [1x]: cluster assignment of each data point, \n
+      AngleComb
 
