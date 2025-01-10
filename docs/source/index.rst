@@ -31,6 +31,7 @@ Contents
    :caption: Get Started
 
    get_started/setup
+   get_started/quick_start
 
 
 .. toctree::
